@@ -1,0 +1,1 @@
+NODE_ENV=test jest --ci test/cjs.test.js test/utils/normalizeFallback.test.js
