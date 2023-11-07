@@ -1,3 +1,11 @@
+node-url-loader (4.1.1-5) unstable; urgency=medium
+
+  * Team upload
+  * Update standards version to 4.6.1, no changes needed.
+  * Add fix for jest >= 29 (Closes: #1022407)
+
+ -- Yadd <yadd@debian.org>  Sun, 23 Oct 2022 18:36:33 +0200
+
 node-url-loader (4.1.1-4) unstable; urgency=medium
 
   * Team upload
